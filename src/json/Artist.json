@@ -1,0 +1,27 @@
+{
+  "Leonardo": {
+    "description": "Leonardo da Vinci, né le 15 avril 1452 à Vinci, en Toscane, et mort le 2 mai 1519 à Amboise, en France, était un polymathe de la Renaissance italienne. Il est surtout connu pour ses œuvres d'art, telles que La Joconde et La Cène, mais il a également apporté des contributions significatives à la science, l'ingénierie, l'anatomie et bien d'autres domaines.\n\nIl a commencé sa carrière à Florence, puis a travaillé pour Ludovico Sforza à Milan, où il a réalisé plusieurs de ses œuvres les plus célèbres. Plus tard, il a travaillé à Rome et en France, où il a passé les dernières années de sa vie sous la protection du roi François Ier.\n\nLeonardo est souvent considéré comme l'incarnation de l'idéal humaniste de la Renaissance, et ses œuvres et écrits continuent d'inspirer et d'émerveiller les générations.\n\nEst-ce que tu as une œuvre préférée de Leonardo da Vinci?\n",
+    "imageUrl": "/Leonardo.jpg",
+    "name": "Leonardo da Vinci"
+  },
+  "Michelangelo": {
+    "description": "Michelangelo Buonarroti, né le 6 mars 1475 à Caprese, en Toscane, et mort le 18 février 1564 à Rome, était un artiste et sculpteur italien de la Renaissance. Il est surtout connu pour ses œuvres d'art, telles que **La Création d'Adam** et La Pietà, ainsi que pour ses fresques de la chapelle Sixtine.\n\nMichelangelo a commencé sa carrière à Florence, où il a réalisé plusieurs œuvres importantes, avant de déménager à Rome pour travailler pour le pape Jules II. Il a passé une grande partie de sa vie à Rome, où il a réalisé certaines de ses œuvres les plus célèbres.\n\nMichelangelo était également un architecte accompli, et il a conçu plusieurs bâtiments emblématiques de Rome, tels que la basilique Saint-Pierre. Son travail a eu une influence durable sur l'art et l'architecture de la Renaissance et au-delà.\n\nQuelle est ton œuvre préférée de Michelangelo?\n",
+    "imageUrl": "/Michelangelo.webp",
+    "name": "Michelangelo Buonarroti"
+  },
+  "Raphael": {
+    "description": "Raffaello Sanzio da Urbino, né le 6 avril 1483 à Urbino, dans les Marches, et mort le 6 avril 1520 à Rome, était un peintre et architecte italien de la Renaissance. Il est surtout connu pour ses œuvres d'art, telles que L'École d'Athènes et La Madone Sixtine, ainsi que pour ses fresques des chambres du Vatican.\n\nRaphael a commencé sa carrière à Florence, où il a été influencé par les œuvres de Léonard de Vinci et Michel-Ange. Il a ensuite déménagé à Rome, où il est devenu l'un des artistes les plus en vue de son époque.\n\nRaphael était connu pour son style gracieux et harmonieux, ainsi que pour sa capacité à capturer l'émotion et la beauté dans ses œuvres. Son travail a eu une influence durable sur l'art de la Renaissance et au-delà.\n\nQuelle est ton œuvre préférée de Raphael?\n",
+    "imageUrl": "/Raphael.jpg",
+    "name": "Raphael Sanzio"
+  },
+  "Picasso": {
+    "description": "Pablo Picasso, né le 25 octobre 1881 à Malaga, en Espagne, et mort le 8 avril 1973 à Mougins, en France, était un artiste espagnol qui a joué un rôle majeur dans le développement de l'art moderne. Il est surtout connu pour ses œuvres d'art, telles que Les Demoiselles d'Avignon et Guernica, ainsi que pour son rôle dans le mouvement cubiste.\n\nPicasso a commencé sa carrière à Barcelone, avant de déménager à Paris, où il est devenu l'un des artistes les plus en vue de la scène artistique de la ville. Il a expérimenté avec une variété de styles et de techniques tout au long de sa carrière, et son travail a eu une influence durable sur l'art moderne.\n\nPicasso est souvent considéré comme l'un des artistes les plus importants du XXe siècle, et son travail continue d'inspirer et d'influencer les artistes du monde entier.\n\nQuelle est ton œuvre préférée de Picasso?\n",
+    "imageUrl": "/Picasso.jpg",
+    "name": "Pablo Picasso"
+  },
+  "VanGogh": {
+    "description": "Vincent van Gogh, né le 30 mars 1853 à Groot-Zundert, aux Pays-Bas, et mort le 29 juillet 1890 à Auvers-sur-Oise, en France, était un peintre post-impressionniste néerlandais. Il est surtout connu pour ses œuvres d'art, telles que La Nuit étoilée et Les Tournesols, ainsi que pour son style distinctif et expressif.\n\nVan Gogh a commencé sa carrière à La Haye, avant de déménager à Paris, où il a été influencé par les œuvres des impressionnistes français. Il a ensuite déménagé à Arles, où il a créé certaines de ses œuvres les plus célèbres, avant de déménager à Auvers-sur-Oise, où il a passé les dernières années de sa vie.\n\nVan Gogh était connu pour son style expressif et émotionnel, ainsi que pour sa capacité à capturer la beauté et la complexité de la nature. Son travail a eu une influence durable sur l'art moderne et continue d'inspirer les artistes du monde entier.\n\nQuelle est ton œuvre préférée de Van Gogh?\n",
+    "imageUrl": "/Van_Gogh.jpg",
+    "name": "Vincent van Gogh"
+  }
+}
