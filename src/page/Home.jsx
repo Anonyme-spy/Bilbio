@@ -1,12 +1,12 @@
-import SideBar from "./Component/SideBar.jsx";
+import SideBar from "../Component/SideBar.jsx";
 import {Route, Routes} from "react-router-dom";
-import {Leonardo, Michelangelo, Picasso, Raphael, VanGogh} from "./Component/Artist.jsx";
+import {Leonardo, Michelangelo, Picasso, Raphael, VanGogh} from "../Component/Artist.jsx";
 
 
 export function Home() {
 
     return (
-        <div className={'body'}>
+        <div className={'body-art'}>
             <SideBar/>
             <div className={'containerBio'}>
                 <Routes>

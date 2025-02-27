@@ -4,9 +4,10 @@ export const NavBar = () => {
     return (
         <nav className={'NavBar'}>
             <NavLink to={'/'}>Home</NavLink>
-            <NavLink to={'/about'}>About</NavLink>
+            <NavLink to={'/about'}>A propos</NavLink>
             <NavLink to={'/services'}>Services</NavLink>
             <NavLink to={'/contact'}>Contact</NavLink>
+            <NavLink to={'/Gallery'}>Gallery</NavLink>
         </nav>
     )
 }

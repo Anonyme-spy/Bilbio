@@ -1,5 +1,5 @@
 import Artists from "../json/Artist.json";
-import Bio from "../page/Bio.jsx";
+import Bio from "./Bio.jsx";
 
 export function Picasso() {
     const picasso = Artists.Picasso;

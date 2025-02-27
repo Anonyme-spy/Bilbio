@@ -1,0 +1,26 @@
+{
+  "Monalisa": {
+    "name": "Monalisa",
+    "Artist": "Leonardo da Vinci",
+    "description": "Un des plus populaire ouvre d'art de Leonardo da vinci",
+    "imageUrl": "/MonaLisa.jpg"
+  },
+  "TheStarryNight": {
+    "name": "The Starry Night",
+    "Artist": "Vincent van Gogh",
+    "description": "Un des plus populaire ouvre d'art de Vincent van Gogh",
+    "imageUrl": "/Starry_Night.jpg"
+  },
+  "Guernica": {
+    "name": "Guernica",
+    "Artist": "Pablo Picasso",
+    "description": "Un des plus populaire ouvre d'art de Pablo Picasso",
+    "imageUrl": "/Mural_del_Gernika.jpg"
+  },
+  "The_creation_of_Adam": {
+    "name": "The creation of Adam",
+    "Artist": "Michelangelo",
+    "description": "Un des plus populaire ouvre d'art de Michelangelo",
+    "imageUrl": "/Creation_of_Adam.jpg"
+  }
+}

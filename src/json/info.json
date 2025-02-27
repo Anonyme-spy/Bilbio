@@ -1,0 +1,28 @@
+{
+  "about_us": {
+    "title": "À Propos de Nous",
+    "intro": "Bienvenue à BiblioArt, votre bibliothèque numérique dédiée aux artistes contemporains du monde entier. Notre mission est de fournir une plateforme accessible et riche en ressources pour les amateurs d'art, les chercheurs et les créateurs.",
+    "vision": "Chez BiblioArt, nous croyons que l'art est une expression essentielle de la condition humaine. Nous nous engageons à célébrer et à soutenir les talents contemporains en offrant une collection diversifiée et innovante d'œuvres artistiques, de biographies, d'interviews et d'essais critiques.",
+    "mission": {
+      "promotion": "Promotion de l'Art Contemporain",
+      "accessibility": "Accessibilité",
+      "education": "Éducation et Inspiration",
+      "details": {
+        "promotion": "Mettre en lumière les artistes émergents et établis.",
+        "accessibility": "Offrir un accès gratuit et facile à une vaste collection de contenus artistiques.",
+        "education": "Fournir des ressources éducatives pour encourager l'appréciation et la compréhension de l'art contemporain."
+      }
+    },
+    "services": {
+      "digital_gallery": "Galerie Numérique",
+      "artist_archives": "Archives d'Artistes",
+      "virtual_events": "Événements Virtuels",
+      "details": {
+        "digital_gallery": "Explorez des expositions virtuelles et des galeries interactives.",
+        "artist_archives": "Parcourez les biographies, interviews, et œuvres d'artistes contemporains.",
+        "virtual_events": "Participez à des webinaires, des ateliers et des discussions en direct avec des artistes et des experts."
+      }
+    },
+    "contact": "Pour toute question ou suggestion, n'hésitez pas à nous contacter à l'adresse suivante : contact@artisnum.com. Rejoignez notre communauté et plongez dans l'univers fascinant de l'art contemporain."
+  }
+}
