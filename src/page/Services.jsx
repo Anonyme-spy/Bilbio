@@ -1,7 +1,9 @@
-import info from '../json/info.json'
+import info from '../json/info.json' //importation d'une liste json
 
 export default function Services() {
-    const service = info.about_us.services;
+    {/* default export exporte ce composant */
+    }
+    const service = info.about_us.services; // importe la liste info dans le json
     {
         /* "services": {
       "digital_gallery": "Galerie Numérique",
@@ -15,7 +17,7 @@ export default function Services() {
     }
 
     return (
-        <div>
+        <div> {/*appel la liste json importer en haut*/}
             <h1>{service.digital_gallery}</h1>
             <p>{service.details.digital_gallery}</p>
             <h1>{service.artist_archives}</h1>

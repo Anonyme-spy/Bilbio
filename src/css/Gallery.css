@@ -18,6 +18,7 @@
 }
 
 .item {
+    /* css de la gallery de la page */
     width: 200px;
     height: 300px;
     list-style-type: none;
@@ -29,6 +30,8 @@
     border-radius: 20px;
     box-shadow: 0 20px 30px rgba(255, 255, 255, 0.3) inset;
     transition: transform 0.1s, left 0.75s, top 0.75s, width 0.75s, height 0.75s;
+
+    /* child permet de de selection un item suivant et d'applique le css qu'a celui ci */
 
     &:nth-child(1), &:nth-child(2) {
         left: 0;
@@ -42,8 +45,11 @@
     }
 
     &:nth-child(3) {
-        left: 50%;
+        left: 80%;
+        top: 85%;
         background-size: cover;
+        height: 30%;
+
     }
 
     &:nth-child(4) {
@@ -206,5 +212,17 @@
             left: calc(50% + 420px);
             opacity: 0;
         }
+    }
+}
+
+div.content {
+    & h2 {
+        text-shadow: -2px -2px 0 black,
+        2px -2px 0 black,
+        -2px 2px 0 black,
+        2px 2px 0 black;
+        font-size: 1.5rem;
+        font-weight: 700;
+
     }
 }

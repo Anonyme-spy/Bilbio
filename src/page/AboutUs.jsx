@@ -1,9 +1,9 @@
-import infos from '../json/info.json'
+import infos from '../json/info.json' // importe une liste json
 
 export function AboutUs() {
-    const array = infos.about_us;
+    const array = infos.about_us; // importe la liste json dans la variable array
     return (
-        <div>
+        <div> {/* affiche les informations de la liste json */}
             <h1>{array.title}</h1>
             <p>{array.intro}</p>
             <p>{array.vision}</p>

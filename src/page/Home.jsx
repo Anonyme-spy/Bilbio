@@ -1,3 +1,4 @@
+//importe des composants à utiliser
 import SideBar from "../Component/SideBar.jsx";
 import {Route, Routes} from "react-router-dom";
 import {Leonardo, Michelangelo, Picasso, Raphael, VanGogh} from "../Component/Artist.jsx";
@@ -7,9 +8,9 @@ export function Home() {
 
     return (
         <div className={'body-art'}>
-            <SideBar/>
+            <SideBar/>{/* bare gauche de navigation permutant les composant*/}
             <div className={'containerBio'}>
-                <Routes>
+                <Routes> {/* dit au navigateur de montrer qu'une composante la fois*/}
                     <Route path={'/'} element={<Leonardo/>}/>
                     <Route path={'/Picasso'} element={<Picasso/>}/>
                     <Route path={'/van_Goth'} element={<VanGogh/>}/>
